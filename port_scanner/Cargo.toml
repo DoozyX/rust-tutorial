@@ -1,0 +1,7 @@
+[package]
+name = "port_scanner"
+version = "0.1.0"
+authors = ["Slobodan Kletnikov <slobodan_kletnikov@hotmail.com>"]
+edition = "2018"
+
+[dependencies]
